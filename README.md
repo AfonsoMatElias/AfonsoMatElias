@@ -8,7 +8,6 @@
 ---
 
 <div align="center">
-  <a href="#"><img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=afonsomatelias.afonsomatelias&left_color=grey&right_color=blue"></a>
   <a href="#"><img alt="Github" src="https://img.shields.io/github/followers/AfonsoMatElias?label=Follow&style=social"></a>
 </div>
 
