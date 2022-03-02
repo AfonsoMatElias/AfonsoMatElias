@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img width="100%" src="assets/header-img.png" alt="cover" />
+  <img width="60%" src="assets/header-img.png" alt="cover" />
 </div>
 
 ---
@@ -45,8 +45,6 @@ Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly
 
 ### 👨‍💻 Programming Languages
 
----
-
 <p>
     <a href="https://github.com/search?q=user%AfonsoMatElias+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%AfonsoMatElias+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -66,10 +64,8 @@ Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly
     <a href="https://github.com/search?q=user%AfonsoMatElias+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<br>
-
 ### 🧰 Frameworks and Libraries
----
+
 <p>
     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
@@ -82,7 +78,7 @@ Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly
 </p>
 
 ### 🗄️ Databases and Cloud hosting
----
+
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -92,10 +88,8 @@ Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-<br>
-
 ### 💻 Software and Tools
----
+
 <p>
     <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/-Firefox-ff9400?logo=firefox&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
@@ -111,8 +105,6 @@ Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<br>
-
 ## 📱 Connect with me
 
 <p>
@@ -124,10 +116,9 @@ Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly
    <a href="#"><img alt="Discord" src="https://custom-icon-badges.herokuapp.com/badge/ @AfonsoMatElias%233679-5865F2.svg?logo=discord&logoColor=white"></a>
 </p>
 
+Or, you can mail me at 📨 **afonsomatumona@hotmail.com**
 
-Or you can mail at 
-  - 📨 **afonsomatumona@hotmail.com**
-
+<br>
 
 ## 💻 GitHub Profile Stats
 
@@ -141,11 +132,10 @@ Or you can mail at
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AfonsoMatElias&bg_color=20232a&color=bcbcbe&line=00e7ff&point=fefdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-<br>
 
 <div align="center">
   <p>
-    I have a friend  that said: I don't about you but, as a coder when I'm among people that does not code I feel like a god 👨‍🦳, like I'm invincible 🏋️ or a super-hero 🦸! If you feel this way too, welcome to the family ❤️!!!
+    I have a friend (<a href="https://github.com/Hequele">Salomão Satuta</a>) that said: I don't about you but, as a coder when I'm among people that does not code I feel like a god 👨‍🦳, like I'm invincible 🏋️ or a super-hero 🦸! If you feel this way too, welcome to the family ❤️!!!
   </p>
 
   <br>
