@@ -27,8 +27,6 @@ Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-
 <p align="center">
   <a href="https://github.com/AfonsoMatElias/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AfonsoMatElias's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AfonsoMatElias&theme=react&hide_border=true"/>
@@ -122,7 +120,7 @@ Or, you can mail me at 📨 **afonsomatumona@hotmail.com**
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api?username=AfonsoMatElias&show_icons=true&theme=react&hide_border=true" height="192px"/></a>
+<a href="#"><img alt="AfonsoMatElias's Top Languages" src="https://github-readme-stats.vercel.app/api?username=AfonsoMatElias&show_icons=true&theme=react&hide_border=true" height="192px"/></a>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=afonsomatelias&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="afonsomatelias" /></p>
 
