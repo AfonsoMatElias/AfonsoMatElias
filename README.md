@@ -16,7 +16,7 @@
 Hi! My name is **Afonso Matumona** aka **Elias**, fullstack developer but mostly focused on backend development.
 
 <p>
-  I'm the creator of <a target="_blank" href="https://bouerjs.github.io">Bou<span style="color: #F0DB4F;">e</span>r.js</a>, a frontend library for developing Web Apps.
+  I'm the creator of <a target="_blank" href="https://bouerjs.github.io">Bouer.js</a>, a frontend library for developing Web Apps.
 </p>
 
 <br>
