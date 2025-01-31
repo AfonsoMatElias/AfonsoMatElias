@@ -124,14 +124,14 @@ Or, you can mail me at 📨 **afonsomatumona@hotmail.com**
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=afonsomatelias&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="afonsomatelias" /></p>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AfonsoMatElias&bg_color=20232a&color=bcbcbe&line=00e7ff&point=fefdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AfonsoMatElias&bg_color=20232a&color=bcbcbe&line=aaefff&point=0fedff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 <div align="center">
   <p>
-    I have a friend (<a href="https://github.com/Hequele">Salomão Satuta</a>) that said: I don't about you but, as a coder when I'm among people that does not code I feel like a god 👨‍🦳, like I'm invincible 🏋️ or a super-hero 🦸! If you feel this way too, welcome to the family ❤️!!!
+    I have a friend (<a href="https://github.com/Hequele">Salomão Satuta</a>) that said: I don't know about you but, as a coder, when I'm among people that does not code, 
+    I feel like a god 👨‍🦳, like, I'm invincible 🏋️ or a super-hero 🦸! If you feel this way too, welcome to the family ❤️!!!
   </p>
 
   <br>
